@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ScrollProject</string>
+    <string name="header">也称乱数假文或者哑元文本， 是印刷及排版领域所常用的虚拟文字。由于曾经一台匿名的打印机刻意打乱了一盒印刷字体从而造出一本字体样品书</string>
+    <string name="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Ut molestie mauris quis nisl pellentesque, sed gravida neque cursus. Mauris sapien turpis, cursus ac commodo finibus, bibendum quis erat.
+        Suspendisse eu est tempor odio convallis fermentum efficitur in dui. Curabitur non posuere risus.
+        Nulla turpis nibh, lacinia nec tortor a, finibus faucibus lorem. Donec et neque diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+        Nullam quis libero nisl. Nam velit erat, vestibulum ac viverra a, ultrices in arcu.
+        Fusce posuere tellus in nulla venenatis dignissim. In et enim porttitor, consequat odio et, sollicitudin leo.
+        Suspendisse et orci in nunc scelerisque dictum at sed tortor. Sed ornare nec tellus sed tincidunt. Morbi nisl eros, ultrices et est a, sollicitudin consequat dui.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Ut molestie mauris quis nisl pellentesque, sed gravida neque cursus. Mauris sapien turpis, cursus ac commodo finibus, bibendum quis erat.
+        Suspendisse eu est tempor odio convallis fermentum efficitur in dui. Curabitur non posuere risus.
+        Nulla turpis nibh, lacinia nec tortor a, finibus faucibus lorem. Donec et neque diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+        Nullam quis libero nisl. Nam velit erat, vestibulum ac viverra a, ultrices in arcu.
+        Fusce posuere tellus in nulla venenatis dignissim. In et enim porttitor, consequat odio et, sollicitudin leo.
+        Suspendisse et orci in nunc scelerisque dictum at sed tortor. Sed ornare nec tellus sed tincidunt. Morbi nisl eros, ultrices et est a, sollicitudin consequat dui
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Ut molestie mauris quis nisl pellentesque, sed gravida neque cursus. Mauris sapien turpis, cursus ac commodo finibus, bibendum quis erat.
+        Suspendisse eu est tempor odio convallis fermentum efficitur in dui. Curabitur non posuere risus.
+        Nulla turpis nibh, lacinia nec tortor a, finibus faucibus lorem. Donec et neque diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+        Nullam quis libero nisl. Nam velit erat, vestibulum ac viverra a, ultrices in arcu.
+        Fusce posuere tellus in nulla venenatis dignissim. In et enim porttitor, consequat odio et, sollicitudin leo.
+        Suspendisse et orci in nunc scelerisque dictum at sed tortor. Sed ornare nec tellus sed tincidunt. Morbi nisl eros, ultrices et est a, sollicitudin consequat dui</string>
+</resources>
